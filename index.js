@@ -5,7 +5,6 @@ function clearScreen() {
 }
 
 function addToDisplay(value) {
-  console.log(result.value + value);
   result.value = result.value + value;
 }
 
